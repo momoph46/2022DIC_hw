@@ -1,1 +1,1 @@
-# Digital IC Homework
+# Digital IC Design Homework
